@@ -1,0 +1,2 @@
+Once uploaded, pdf files will be added to this folder.
+These pdf files will then be broken into chapters.
